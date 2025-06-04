@@ -4,7 +4,7 @@ public class abc2 extends abstra {
 
 	public void day() {
 		System.out.println("3days");
-		
+		sysout
 	}
 public static void main(String[] args) {
 	abc2 A = new abc2();
